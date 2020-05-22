@@ -1,0 +1,16 @@
+nav{
+    position: fixed;
+    top: 10px;
+    font-weight: 800;
+    color: white;
+}
+
+nav li{
+    display: flex; 
+    margin: 20 20; 
+    justify-content: left;
+}
+
+.LinkHomePage{
+    font-weight: 800;
+}
